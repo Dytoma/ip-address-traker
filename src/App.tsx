@@ -111,7 +111,7 @@ function App() {
           <div className="w-full">
             <form
               className="flex items-center justify-center w-full md:w-auto"
-              // onSubmit={handleSubmit}
+              onSubmit={handleSubmit}
             >
               <div className="w-full md:w-auto flex-1 md:flex-none">
                 <input
