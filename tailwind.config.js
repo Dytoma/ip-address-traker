@@ -11,8 +11,8 @@ export default {
         darkGray: 'hsl(0, 0%, 59%)'
       },
       backgroundImage: {
-        'hero-banner': "url('./src/assets/images/pattern-bg-desktop.png')",
-        'hero-banner-mobile': "url('./src/assets/images/pattern-bg-mobile.png')"
+        'hero-banner': "url('/src/assets/images/pattern-bg-desktop.png')",
+        'hero-banner-mobile': "url('/src/assets/images/pattern-bg-mobile.png')"
       },
       fontFamily: {
         rubik: ['Rubik', 'sans-serif']
